@@ -1,4 +1,4 @@
-# csogreniyorum
+# InternCsExamples
 basically c# apps
 
 dortgenAlanHesapla.cs ------> Calculates the area of quadrilaterals.
