@@ -30,6 +30,12 @@ using System;
                 Console.WriteLine("sayi= 1 2 3 4 5 6 7 8 9 falan girmen lazım sacmalama");
 
             }
+            catch (Exception text)
+            {
+                Console.WriteLine(text.Message); 
+              /* that codes are showing us what is going wrong. */
+            
+            }
             
             
       }
