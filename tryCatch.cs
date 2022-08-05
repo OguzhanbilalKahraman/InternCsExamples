@@ -36,6 +36,11 @@ using System;
               /* that codes are showing us what is going wrong. */
             
             }
+            finally
+            {
+                Console.WriteLine("That's Final Spot");
+              
+            }
             
             
       }
