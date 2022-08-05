@@ -1,6 +1,6 @@
 using System;
 
-namespace starter
+namespace dortgenAlanHesap
 {
     class Program
     {
