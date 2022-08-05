@@ -1,0 +1,2 @@
+# csogreniyorum
+basically c# apps
