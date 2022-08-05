@@ -1,6 +1,6 @@
 using System;
 
-namespace starter
+namespace numberGuessingGame
 {
     class Program
     {
